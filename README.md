@@ -1,3 +1,7 @@
+**NB: This fork contains compiled code and it's goal is to facilitate RakNet integration into 2 of my other repositories as submodule**
+- https://github.com/Ybalrid/PST4-TeleRoom
+- https://github.com/Ybalrid/PST4-TeleRoom-Server
+
 RakNet 4.081
 ============
 
